@@ -1,0 +1,6 @@
+{
+  "name": "官频主播运营平台",
+  "description": "主播官频运营平台，包含官频列表、脚本上报、官频数据和奖励下发四个模块。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
